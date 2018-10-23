@@ -374,6 +374,13 @@
                      margin-top: 30px;
                      float: none;
               }
+	      .page03 .left h2{
+                     text-align:left;
+                     font-size:24px;
+              }
+              .page03 .left .skills{
+                     margin-top: -35px;
+              }
               .page03 .left span{
                      margin-top:10px;
                      line-height: 20px;
@@ -384,6 +391,7 @@
               }
               .page03 .skillbox{
                      display: block;
+		      margin-top: -20px;
               }
               .page04{          
                     padding-top: 40%;
